@@ -52,3 +52,8 @@ This library provides general validators.
 - `RegexValidator`
 - `InstanceOfValidator`
 - `SubclassOfValidator`
+
+This library also provides basic logical operations.
+
+- `LogicalAnd`
+- `LogicalOr`
